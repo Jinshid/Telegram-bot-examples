@@ -1,1 +1,1 @@
-web: python3 auto_approval.py
+worker: python3 auto_approval.py
