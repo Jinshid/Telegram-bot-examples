@@ -6,7 +6,7 @@ logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO
 )
 
-BOT_TOKEN = '5022747718:AAFJ-IZlrt0MixJ2BDjIfks7W7uXeoe_09g'
+BOT_TOKEN = '5033475714:AAGc09Y2OkW47M43p16dfJgRAzz0SBY-o5Q'
 
 def start(update: Update, ctx: CallbackContext) -> None:
     update.message.reply_text('Hi!')
